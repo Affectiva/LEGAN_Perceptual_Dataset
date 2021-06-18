@@ -1,4 +1,4 @@
-# LEGAN Perceptual Dataset (from our CVPRW 2021 paper)
+# LEGAN Perceptual Dataset (from our CVPRW 2021 paper: LEGAN: Disentangled Manipulation of Directional Lighting and Facial Expressions whilst Leveraging Human Perceptual Judgements)
 
 ![alt text](https://github.com/Affectiva/LEGAN_Perceptual_Dataset/blob/main/Quality_Framework_5.png)
 
