@@ -1,6 +1,6 @@
 # LEGAN Perceptual Dataset 
 
-**From our CVPRW 2021 paper: <https://openaccess.thecvf.com/content/CVPR2021W/AMFG/papers/Banerjee_LEGAN_Disentangled_Manipulation_of_Directional_Lighting_and_Facial_Expressions_Whilst_CVPRW_2021_paper.pdf>**
+**From our CVPRW 2021 paper titled: [LEGAN: Disentangled Manipulation of Directional Lighting and Facial Expressions whilst Leveraging Human Perceptual Judgements](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/papers/Banerjee_LEGAN_Disentangled_Manipulation_of_Directional_Lighting_and_Facial_Expressions_Whilst_CVPRW_2021_paper.pdf)**
 
 ![alt text](https://github.com/Affectiva/LEGAN_Perceptual_Dataset/blob/main/Quality_Framework_5.png)
 
