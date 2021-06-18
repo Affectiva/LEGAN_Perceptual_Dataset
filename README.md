@@ -1,7 +1,7 @@
 # LEGAN_Perceptual_Dataset
 
-<!-- ![alt text](https://github.com/stoneMo/EVA-GCN/blob/main/imgs/title_image.png?raw=true)
- -->
+![alt text](https://github.com/Affectiva/LEGAN_Perceptual_Dataset/blob/main/Quality_Framework_5.png)
+
 (Synthetic images + their perceptual labels) used to train the perceptual quality estimation model used in LEGAN
 
 Dataset release: coming soon (sorry for the delay). For any questions please email sandipan.banerjee@affectiva.com. 
