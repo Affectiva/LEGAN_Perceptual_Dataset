@@ -17,7 +17,7 @@ framework as an auxiliary discriminator. Using objective metrics like FID and LP
 Coming soon (sorry for the delay). For any questions please email sandipan.banerjee@affectiva.com. 
 
 
-## Cite
+## Citation
 
 ```
 
