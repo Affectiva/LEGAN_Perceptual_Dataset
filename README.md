@@ -28,9 +28,14 @@ Naturalness Labeling: The synthetic face images are annotated by human labelers 
 
 ## Dataset Release
 
-The dataset (along with a license) can be accessed here: https://download.affectiva.com/datasets/LEGAN_Perpetual/LEGAN_Perceptual_Dataset.tar.gz
+The dataset (along with the full license) can be accessed here: https://download.affectiva.com/datasets/LEGAN_Perpetual/LEGAN_Perceptual_Dataset.tar.gz
 
 For any questions please email sandipan.banerjee@affectiva.com or ajjen.joshi@affectiva.com or jay.turcot@affectiva.com. 
+
+
+## License
+
+Affectiva grants to the Licensee a non-exclusive, non-transferable, royalty-free, revocable license to use, reproduce, and redistribute the Dataset and create derivative works from the Dataset for academic and research purposes only and not for commercial purposes.  Any redistribution must include this License and any applicable Third Party Terms.  Affectiva retains ownership of all intellectual property rights in the Dataset (other than Third Party Materials which are owned by their respective owners).  Licensee may not use the Dataset in any manner which would be unlawful, would violate the rights of third parties, or would otherwise create any criminal or civil liability.  Licensee may not export the Dataset in violation of any applicable export control or anti-terrorism laws or regulations.
 
 
 ## Please cite this paper if you use this dataset
